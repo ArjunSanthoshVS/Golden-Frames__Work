@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/The_Best_Wardrobe_Designers_in_Kochi_2.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/The_Best_Wardrobe_Designers_in_Kochi_2.jpg");
   background-position: 50% 50%;
 }
 
@@ -38,7 +38,7 @@
     min-height: 360px;
   }
 } .u-section-2 {
-  background-image: url("images/The_Best_Interior_design_company_in_Kochi_5.jpg");
+  background-image: url("/images/The_Best_Interior_design_company_in_Kochi_5.jpg");
   background-position: 50% 50%;
 }
 
