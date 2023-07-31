@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/wdq.jpg");
+  background-image: url("/images/wdq.jpg");
   background-position: 50% 50%;
 }
 
@@ -60,7 +60,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 682px;
-  background-image: url("images/rtt.jpg");
+  background-image: url("/images/rtt.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -178,7 +178,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 321px;
-  background-image: url("images/The_Best_Interior_design_company_in_Kochi_8.jpg");
+  background-image: url("/images/The_Best_Interior_design_company_in_Kochi_8.jpg");
   background-position: 50% 50%;
 }
 
@@ -188,7 +188,7 @@
 
 .u-section-2 .u-image-2 {
   min-height: 321px;
-  background-image: url("images/Best_Office_Interior_Design_Company_in_Kochi.jpg");
+  background-image: url("/images/Best_Office_Interior_Design_Company_in_Kochi.jpg");
   background-position: 50% 50%;
 }
 
@@ -444,7 +444,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 556px;
-  background-image: url("images/Modern_Interior_design_company_in_Kochi_7.jpg");
+  background-image: url("/images/Modern_Interior_design_company_in_Kochi_7.jpg");
   background-position: 50% 50%;
 }
 
@@ -730,7 +730,7 @@
     margin-top: 12px;
   }
 } .u-section-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Interior_design_Company_in_Kochi.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/images/Interior_design_Company_in_Kochi.jpg");
   background-position: 50% 50%;
 }
 
@@ -771,7 +771,7 @@
 .u-section-5 .u-image-1 {
   width: 164px;
   height: 164px;
-  background-image: url("images/The_Best_Interior_design_company_in_Kochi_9.jpg");
+  background-image: url("/images/The_Best_Interior_design_company_in_Kochi_9.jpg");
   background-position: 50% 50%;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
@@ -798,7 +798,7 @@
 .u-section-5 .u-image-2 {
   width: 164px;
   height: 164px;
-  background-image: url("images/The_Best_Wardrobe_Designers_in_Kochi_3.jpg");
+  background-image: url("/images/The_Best_Wardrobe_Designers_in_Kochi_3.jpg");
   background-position: 50% 50%;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
@@ -825,7 +825,7 @@
 .u-section-5 .u-image-3 {
   width: 164px;
   height: 164px;
-  background-image: url("images/The_Best_TV_Unit_Designers_in_Kochi_3.jpg?rand=caf8");
+  background-image: url("/images/The_Best_TV_Unit_Designers_in_Kochi_3.jpg?rand=caf8");
   background-position: 50% 50%;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
@@ -852,7 +852,7 @@
 .u-section-5 .u-image-4 {
   width: 164px;
   height: 164px;
-  background-image: url("images/Modern_Interior_design_company_in_Kochi_2.jpg");
+  background-image: url("/images/Modern_Interior_design_company_in_Kochi_2.jpg");
   background-position: 50% 50%;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
@@ -879,7 +879,7 @@
 .u-section-5 .u-image-5 {
   width: 164px;
   height: 164px;
-  background-image: url("images/Best_Office_Interior_Design_Company_in_Kochi_2.jpg");
+  background-image: url("/images/Best_Office_Interior_Design_Company_in_Kochi_2.jpg");
   background-position: 50% 50%;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
